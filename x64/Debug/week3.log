@@ -1,4 +1,1 @@
-﻿  Source.c
-E:\Desktop\School\ATU SOFTWARE DEV YEAR 2\Advanced Procedural Programming\week3\Source.c(17,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-E:\Desktop\School\ATU SOFTWARE DEV YEAR 2\Advanced Procedural Programming\week3\Source.c(35,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  week3.vcxproj -> E:\Desktop\School\ATU SOFTWARE DEV YEAR 2\Advanced Procedural Programming\week3\x64\Debug\week3.exe
+﻿  week3.vcxproj -> C:\Users\leven\Desktop\School\ATU Year 2\Advanced Procedural Programming\VS c Projects\ADV-Procedural-week-3\x64\Debug\week3.exe
